@@ -21,7 +21,7 @@ namespace Complete
         [Tooltip("The time that must pass before being able to shoot again after a shot")]
         public float m_ShotCooldown = 1.0f;         // The time required between 2 shots
         [Header("Shell Properties")]
-        [Tooltip("The amount of health removed to a tank if they are exactly on the landing spot of a shell")]
+        [Tooltip("한글로 써도 보일까요")]
         public float m_MaxDamage = 100f;                    // The amount of damage done if the explosion is centred on a tank.
         [Tooltip("The force of the explosion at the shell position. It is in newton, so it need to be high, so keep it 500 and above")]
         public float m_ExplosionForce = 1000f;              // The amount of force added to a tank at the centre of the explosion.
