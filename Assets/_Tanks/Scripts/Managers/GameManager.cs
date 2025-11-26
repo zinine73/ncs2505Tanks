@@ -37,7 +37,6 @@ namespace Complete
         
         [FormerlySerializedAs("m_Tanks")] 
         public TankManager[] m_SpawnPoints;         // A collection of managers for enabling and disabling different aspects of the tanks.
-        
         private GameState m_CurrentState;
         
         private int m_RoundNumber;                  // Which round the game is currently on.
