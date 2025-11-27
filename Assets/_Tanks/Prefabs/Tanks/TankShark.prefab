@@ -32,6 +32,10 @@ PrefabInstance:
       propertyPath: m_IsComputerControlled
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 4402130210833324038, guid: 124ef8896632c184fbb314d66be07f07, type: 3}
+      propertyPath: m_Shell
+      value: 
+      objectReference: {fileID: 5409530, guid: fc80c4c6d7298054695fce8cfb1d9a6f, type: 3}
     - target: {fileID: 7060836746388199076, guid: 124ef8896632c184fbb314d66be07f07, type: 3}
       propertyPath: m_LocalPosition.x
       value: -20.347383
@@ -82,7 +86,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8659642890625605861, guid: 124ef8896632c184fbb314d66be07f07, type: 3}
       propertyPath: m_Name
-      value: Tank2 Variant
+      value: TankShark
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects:

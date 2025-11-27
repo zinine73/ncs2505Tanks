@@ -91,6 +91,10 @@ PrefabInstance:
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4402130210833324038, guid: 124ef8896632c184fbb314d66be07f07, type: 3}
+      propertyPath: m_Shell
+      value: 
+      objectReference: {fileID: 5409530, guid: 008ecb1b70bec724fa2cd34255b0d8f8, type: 3}
+    - target: {fileID: 4402130210833324038, guid: 124ef8896632c184fbb314d66be07f07, type: 3}
       propertyPath: m_MaxDamage
       value: 80
       objectReference: {fileID: 0}
@@ -152,7 +156,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8659642890625605861, guid: 124ef8896632c184fbb314d66be07f07, type: 3}
       propertyPath: m_Name
-      value: Tank Variant
+      value: TankUFO
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects:
